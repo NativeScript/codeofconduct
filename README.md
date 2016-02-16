@@ -1,6 +1,4 @@
-# NativeScript Community Slack Channel Code of Conduct
-
-The NativeScript community Slack channel is a resource †for community interaction around the [NativeScript](https://www.nativescript.org/) framework.
+# The NativeScript community Slack channel is a resource †for community interaction around the [NativeScript](https://www.nativescript.org/) framework.
 
 Our community members come from all walks of life and are all at different stages of their personal and professional journeys. To support everyone, we've prepared a short code of conduct. Our mission is best served in an environment that is friendly, safe, and accepting; free from intimidation or harassment.
 
@@ -50,7 +48,7 @@ Content name, description, and other visible metadata must not include abusive, 
 
 ## Reporting Violations of this Code of Conduct
 
-If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact us at:Dan Wilson (@DanWilson), or Jen Looper @Jlooper and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
+If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact us at:Dan Wilson (@DanWilson), or Jen Looper (@jen.looper) and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
 
 ## Consequences
 
@@ -68,7 +66,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 Dan Wilson: @DanWilson
 
-Jen Looper: @jenlooper
+Jen Looper: @jen.looper
 
 We will do our best to ensure that your grievance is handled appropriately.
 
