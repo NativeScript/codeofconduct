@@ -10,7 +10,8 @@ Towards this end, certain behaviors and practices will not be tolerated.
 
 - Be respectful. 
 - We're here to help: 
-- Dan Wilson: @DanWilson 
+- Dan Wilson: @DanWilson
+- Jen Looper: @jen.looper
 - Abusive behavior is never tolerated. 
 - Violations of this code may result in swift and permanent expulsion from the NativeScript community Slack channel. 
 
