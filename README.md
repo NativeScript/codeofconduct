@@ -1,4 +1,4 @@
-The NativeScript community Slack channel is a resource  for community interaction around the [NativeScript](https://www.nativescript.org/) framework.
+# NativeScript Community Code of Conduct
 
 Our community members come from all walks of life and are all at different stages of their personal and professional journeys. To support everyone, we've prepared a short code of conduct. Our mission is best served in an environment that is friendly, safe, and accepting; free from intimidation or harassment.
 
@@ -9,7 +9,7 @@ Towards this end, certain behaviors and practices will not be tolerated.
 - Be respectful. 
 - We're here to help
 - Abusive behavior is never tolerated. 
-- Violations of this code may result in swift and permanent expulsion from the NativeScript community Slack channel. 
+- Violations of this code may result in swift and permanent expulsion from the NativeScript community channels. 
 
 ## Administrators (Slack)
 - Dan Wilson @DanWilson
@@ -17,9 +17,9 @@ Towards this end, certain behaviors and practices will not be tolerated.
 
 ## Scope
 
-We expect all members of the NativeScript community Slack channel, including administrators, users, facilitators, and vendors to abide by this Code of Conduct at all times in our community venues, online and in person, and in one-on-one communications pertaining to NativeScript affairs.
+We expect all members of the NativeScript community, including administrators, users, facilitators, and vendors to abide by this Code of Conduct at all times in our community venues, online and in person, and in one-on-one communications pertaining to NativeScript affairs.
 
-This policy covers the usage of the NativeScript Slack community, as well as the NativeScript support forums, the NativeScript website, and any NativeScript-related events. This Code of Conduct is in addition to, and does not in any way nullify or invalidate, any other terms or conditions related to use of NativeScript.
+This policy covers the usage of the NativeScript Slack community, as well as the NativeScript support forums, NativeScript GitHub repositories, the NativeScript website, and any NativeScript-related events. This Code of Conduct is in addition to, and does not in any way nullify or invalidate, any other terms or conditions related to use of NativeScript.
 
 The definitions of various subjective terms such as "discriminatory", "hateful", or "confusing" will be decided at the sole discretion of the NativeScript administrators.
 
@@ -55,7 +55,7 @@ If you believe someone is harassing you or has otherwise violated this Code of C
 
 ## Consequences
 
-All content published to the NativeScript Slack channel is hosted at the sole discretion of the NativeScript administrators.
+All content published to the NativeScript community channels is hosted at the sole discretion of the NativeScript administrators.
 
 Unacceptable behavior from any community member, including sponsors, employees, customers, or others with decision-making authority, will not be tolerated.
 
