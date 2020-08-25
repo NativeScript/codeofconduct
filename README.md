@@ -13,9 +13,9 @@ Towards this end, certain behaviors and practices will not be tolerated.
 
 ## Administrators
 
-- Dan Wilson (@DanWilson on Slack)
-- Jen Looper (@jen.looper on Slack)
-- TJ VanToll (@tjvantoll on Slack)
+- Igor Randjelovic (@rigor789 on Slack)
+- Nathanael Anderson (@nathanaela on Slack)
+- Nathan Walker (@wwwalkerrun on Slack)
 
 ## Scope
 
@@ -72,7 +72,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
 
 ## Contact Info
-Please contact Dan Wilson @DanWilson if you need to report a problem or address a grievance related to an abuse report.
+Please contact Nathan Walker @wwwalkerrun if you need to report a problem or address a grievance related to an abuse report.
 
 You are also encouraged to contact us if you are curious about something that might be "on the line" between appropriate and inappropriate content. We are happy to provide guidance to help you be a successful part of our community.
 
